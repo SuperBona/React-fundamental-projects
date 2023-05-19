@@ -4,6 +4,7 @@
 - final - complete app without comments
 - starter - complete projects in which I commented all the steps and the theoretical part of what was applied
 - all projects built with VITE (boilerplate)
+- the apps created are part of an online course that I took, so they are not owned by me
 
 - install deps
 
