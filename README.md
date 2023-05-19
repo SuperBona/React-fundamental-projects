@@ -26,7 +26,7 @@ npm run dev
 #### Size
 
 - each project is separate entity and contains it's own package.json and node_modules
-- I delete this folder from my pc due to space issues, so the apps from the starter folders contain all the information used during the study and creation of these projects
+- I delete this folder from my laptop due to space issues, so the apps from the starter folders contain all the information used during the study and creation of these projects
 
 
 #### CSS
