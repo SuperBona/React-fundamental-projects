@@ -2,7 +2,7 @@
 
 - each project contains final/starter
 - final - complete app without comments
-- starter - complete projects in which I commented all the steps and the theoretical part of what was applied FOR MYSELF, so written in my language and at my preference
+- starter - it's FOR MYSELF: complete projects in which I commented all the steps and the theoretical part of what was applied; so written in my main language and at my preference
 - all projects built with VITE (boilerplate)
 - the apps created are part of an online course that I took, so they are not owned by me
 
