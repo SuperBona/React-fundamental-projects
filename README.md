@@ -80,3 +80,46 @@ npm run dev
 08- Lorem Ipsum
 [https://peaceful-beignet-c914d7.netlify.app]
 ![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/dfde85ea-2096-4565-974c-27c0dc352496)
+
+
+
+09- Color Generator
+[https://monumental-cactus-b0c5ed.netlify.app]
+![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/0ba74ccf-39c7-4570-ad3d-8ffbf3e6be46)
+
+
+
+10- Grocery Bud
+[https://radiant-naiad-d5c923.netlify.app]
+![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/2c5da345-24d4-466b-b074-f8dd42c21113)
+
+
+
+11- Navbar
+[https://playful-zuccutto-4af2f5.netlify.app]
+![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/bd93afe7-8fe3-4428-9759-1a4756c863f4)
+![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/afd8c158-8a45-4090-bc81-b9483816ce2c)
+
+
+
+12- Sidebar
+[https://visionary-granita-de4514.netlify.app]
+![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/c9b2c420-cba6-4fc3-a343-555b307dd6eb)
+
+
+
+13- Strapi Menus
+[https://magical-snickerdoodle-6424e9.netlify.app]
+![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/521ce80e-71d0-4797-8c33-02cb7382b71c)
+
+
+
+14- Cart
+[https://scintillating-squirrel-88c419.netlify.app]
+![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/93122e06-6876-4328-ba77-1194e9b6f76f)
+
+
+
+Sliders Slick
+[https://eloquent-bonbon-0e7664.netlify.app]
+![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/01dec1fb-9369-4928-b6c6-c5158d0a0dab)
