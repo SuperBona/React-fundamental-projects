@@ -97,8 +97,8 @@ npm run dev
 
 11- Navbar
 [https://playful-zuccutto-4af2f5.netlify.app]
-![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/bd93afe7-8fe3-4428-9759-1a4756c863f4)
 ![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/afd8c158-8a45-4090-bc81-b9483816ce2c)
+![Cattura](https://github.com/SuperBona/React-fundamental-projects/assets/122936032/bd93afe7-8fe3-4428-9759-1a4756c863f4)
 
 
 
