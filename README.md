@@ -33,3 +33,7 @@ npm run dev
 
 - some projects will contain more css content (no other option)
 - Global Styles
+
+#### Preview
+01- Birthday buddy
+[https://glistening-chaja-069c56.netlify.app/]
