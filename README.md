@@ -20,7 +20,7 @@ npm run dev
 
 #### Steps
 
-- in README.md there are all the steps of projects and useful informations
+- in README.md files, for each project there are all the steps of projects and useful informations
 
 
 #### Size
